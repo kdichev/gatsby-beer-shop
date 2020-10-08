@@ -2,19 +2,20 @@
 templateKey: index-page
 title: Øl for Ølelskere
 image: /img/dsc_4321.jpg
-heading: Great coffee with a conscience
+heading: Øl for Ølelskere
 subheading: Dansk og International Øl
 mainpitch:
   title: Why Høkeren?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
+    Hokeren is the beer store for everyone who believes that great beer
+    shouldn't just taste good, it should do good too. We source all of our beer
+    directly from small scale sustainable breweries and make sure part of the
     profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Hokeren is the ultimate spot for beer lovers who want to learn
+  about their beer’s origin and support the small breweries that grew it. We
+  take beer production and brewing seriously and we’re glad to pass that
+  knowledge to anyone. We want to keep the traditions that made the Danish beer
+  so famous.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,10 +47,10 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Hokeren is the ultimate spot for coffee lovers who want to learn about their
+    beer’s origin and support the small breweries that brew it. We take beer
+    production seriously and we’re glad to pass that knowledge to anyone. This
+    is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >

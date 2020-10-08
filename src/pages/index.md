@@ -18,7 +18,7 @@ description: Hokeren is the ultimate spot for beer lovers who want to learn
   so famous.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/dsc_4108.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
